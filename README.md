@@ -1,4 +1,4 @@
-# awesome-arabic
+# Awesome Arabic
 
 A curated list of awesome projects, libraries, tools, fonts, and dev/design resources that are trying to enhance/support the Arabic language computational needs and improve its presence on the web.
 
