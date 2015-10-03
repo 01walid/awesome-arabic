@@ -24,6 +24,7 @@ A curated list of awesome projects, libraries, tools, fonts, and dev/design reso
 * [Arabic-transcription](https://github.com/cnnorris/Arabic-transcription) - Transcription (both phonetic and translitteration) algorithm for arabic in its native orthography.
 * [Arabish](https://github.com/amasad/arabish) - Arabic transliteration in Python. Similar to Yamli.com, Google Ta3reeb, and Microsoft Maren.
 * [hijra](https://github.com/ojuba-org/hijra) - Hijri Islamic Calendar utils in python.
+* [pyIslam](https://github.com/abougouffa/pyIslam) - Python library to calculate prayer times, hijri date, qiblah direction and more.
 * [ar2en](https://github.com/maherg/ar2en) - Renames Arabic files and directories into English recursively.
 
 #### Javascript
