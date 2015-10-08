@@ -31,6 +31,8 @@ A curated list of awesome projects, libraries, tools, fonts, and dev/design reso
 * [bidiweb](https://github.com/hasenj/bidiweb) - Determine the base direction of paragraphs and adjust them accordingly.
 * [arabicString](https://github.com/ahmads/arabicString) - A Javascript library that extends the native String object with methods to help when dealing with Arabic strings for node and the browser.
 * [jsastem](https://github.com/ejtaal/jsastem) - JavaScript Arabic Stemmer.
+* [moment-hijri](https://github.com/xsoh/moment-hijri) -  A Hijri calendar (based on Umm al-Qura calculations) plugin for moment.js.
+* [Hijri.js](https://github.com/xsoh/Hijri.js) - A tool for Hijri calender (based on Umm al-Qura calculations) in Javascript.
 
 #### Ruby
 * [TODO]
