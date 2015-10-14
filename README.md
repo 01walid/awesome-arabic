@@ -1,4 +1,4 @@
-# Awesome Arabic
+# Awesome Arabic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome projects, libraries, tools, fonts, and dev/design resources that are trying to enhance/support the Arabic language computational needs and improve its presence on the web.
 
