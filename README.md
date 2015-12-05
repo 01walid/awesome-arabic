@@ -26,6 +26,7 @@ A curated list of awesome projects, libraries, tools, fonts, and dev/design reso
 * [hijra](https://github.com/ojuba-org/hijra) - Hijri Islamic Calendar utils in python.
 * [pyIslam](https://github.com/abougouffa/pyIslam) - Python library to calculate prayer times, hijri date, qiblah direction and more.
 * [ar2en](https://github.com/maherg/ar2en) - Renames Arabic files and directories into English recursively.
+* [date-extractor](https://github.com/DanielJDufour/date-extractor) - Extracts dates from text in Arabic and other languages
 
 #### Javascript
 * [bidiweb](https://github.com/hasenj/bidiweb) - Determine the base direction of paragraphs and adjust them accordingly.
