@@ -21,6 +21,7 @@ A curated list of awesome projects, libraries, tools, fonts, and dev/design reso
 * [Hijri.js](https://github.com/xsoh/Hijri.js) - A tool for Hijri calender (based on Umm al-Qura calculations) in Javascript.
 * [jsastem](https://github.com/ejtaal/jsastem) - JavaScript Arabic Stemmer.
 * [moment-hijri](https://github.com/xsoh/moment-hijri) -  A Hijri calendar (based on Umm al-Qura calculations) plugin for moment.js.
+* [aln9](https://github.com/mkhDev/aln9) -  A lightweight markup language designed for Arabic text.
 
 #### PHP
 * [Ar-PHP](http://www.ar-php.org/) - A set of PHP classes developed to enhance Arabic web applications by providing set of tools includes stem-based searching, translitiration, soundex, Hijri calendar, charset detection and converter, spell numbers, keyboard language, Muslim prayer time, auto-summarization, and more...
