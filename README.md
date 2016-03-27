@@ -126,7 +126,7 @@ Data, databases and content related or useful to Arabic projects.
 ## Communities
 * [LinuxAC](http://www.linuxac.org/) - Linux Arabic Community
 * [iSecur1ty](http://www.isecur1ty.org/) - Arabs Security and Ethical hacking community.
-* 
+
 ## ebooks
 * [TODO]
 
