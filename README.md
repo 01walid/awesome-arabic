@@ -120,8 +120,12 @@ Data, databases and content related or useful to Arabic projects.
 * [Hsoub Academy](http://academy.hsoub.com/) - Hight quality tutorials about programing, DevOps, UX and Design, Freelancing...
 * [Hsoub I/O](https://io.hsoub.com/) - The Arabic Reddit-like.
 * [informatic-ar](http://informatic-ar.com/) - Arabic content about programming concepts, algorithms, AI ..etc.
-* [iSecur1ty](http://www.isecur1ty.org/) - Arabs Security and Ethical hacking community.
+
 * [Ruby 3arabi](http://ruby3arabi.com/) - Learn Ruby in Arabic.
+
+## Communities
+* [LinuxAC](http://www.linuxac.org/) - Linux Arabic Community
+* [iSecur1ty](http://www.isecur1ty.org/) - Arabs Security and Ethical hacking community.
 
 ## ebooks
 * [TODO]
