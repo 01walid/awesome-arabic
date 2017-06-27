@@ -13,6 +13,7 @@ A curated list of awesome projects, libraries, tools, fonts, and dev/design reso
 
 #### Java
 * [NumberToArabicWords](https://github.com/bluemix/NumberToArabicWords) - Arabic numbers to words.
+* [RemoveTashkeel.java](https://gist.github.com/mhashim6/7d96f7ea274c9eb7e509798a332d78ac) - Removes Arabic diacritics (tashkeel تشكيل) from any file almost instantly.
 
 #### Javascript
 * [arabicString](https://github.com/ahmads/arabicString) - A Javascript library that extends the native String object with methods to help when dealing with Arabic strings for node and the browser.
