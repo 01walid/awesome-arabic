@@ -75,6 +75,11 @@ Freely available Arabic Fonts.
 
 Libraries for working with Arabic language text and data.
 
+### Stemmers
+* [Apache Lucene Arabic Light Stemmer](http://lucene.apache.org/core/3_0_3/api/contrib-analyzers/org/apache/lucene/analysis/ar/ArabicAnalyzer.html) A lucene analyzer that implements light-stemming as specified by: [Light Stemming for Arabic Information Retrieval](http://www.mtholyoke.edu/~lballest/Pubs/arab_stem05.pdf).
+* [arabicstemmer](https://github.com/assem-ch/arabicstemmer) - Snowball-based light stemmer algorithm for Arabic, aimed mainly to improve search.
+* [Khoja Stemmer](http://zeus.cs.pacificu.edu/shereen/research.htm) - Shereen Khoja Arabic stemmer (java). Another [implementation exists for the same algorithm](https://sourceforge.net/projects/arabicstemmer/) (java as well).
+
 #### Arabic text vocalization
 * [Mishkal](https://github.com/linuxscout/mishkal) - Arabic text vocalization software written in Python, website: http://tahadz.com/mishkal.
 
