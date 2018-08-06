@@ -76,11 +76,11 @@ Freely available Arabic Fonts.
 
 Libraries for working with Arabic language text and data.
 
-### Stemmers
+#### Stemmers & Roots 
 * [Apache Lucene Arabic Light Stemmer](http://lucene.apache.org/core/3_0_3/api/contrib-analyzers/org/apache/lucene/analysis/ar/ArabicAnalyzer.html) A lucene analyzer that implements light-stemming as specified by: [Light Stemming for Arabic Information Retrieval](http://www.mtholyoke.edu/~lballest/Pubs/arab_stem05.pdf).
 * [arabicstemmer](https://github.com/assem-ch/arabicstemmer) - Snowball-based light stemmer algorithm for Arabic, aimed mainly to improve search.
 * [Khoja Stemmer](http://zeus.cs.pacificu.edu/shereen/research.htm) - Shereen Khoja Arabic stemmer (java). Another [implementation exists for the same algorithm](https://sourceforge.net/projects/arabicstemmer/) (java as well).
-
+* [Arabic RootFinder](https://github.com/tb0yd/rootfinder) - Root finding using Jupyter Notebook, Scikit-learn, and neural network in Keras. 
 #### Arabic text vocalization
 * [Mishkal](https://github.com/linuxscout/mishkal) - Arabic text vocalization software written in Python, website: http://tahadz.com/mishkal.
 
@@ -116,6 +116,10 @@ Libraries for working with Arabic language text and data.
 
 Data, databases and content related or useful to Arabic projects.
 
+#### Voice Corpus
+* [Arabic Speech Corpus](http://en.arabicspeechcorpus.com) - South Levantine Arabic (Damascian accent) speech corpus. Package contains 1813 .wav files containing spoken utterances accompanied with files containing the text utterances and phoneme labels
+
+#### Verb conjugation 
 * [LABR](https://github.com/mohamedadaly/labr) - Large Scale Arabic Book Reviews Dataset.
 * [Large Arabic Resources For Sentiment Analysis](https://github.com/hadyelsahar/large-arabic-sentiment-analysis-resouces).
 * [Arabic Stop Words](https://github.com/mohataher/arabic-stop-words) - Long list of Arabic stop words combined from different sources.
