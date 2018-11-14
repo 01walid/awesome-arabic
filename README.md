@@ -98,7 +98,7 @@ Libraries for working with Arabic language text and data.
 * [Minteeq - مِنطيق](http://arabic-tools.github.io/ar-espeak/) - Opensource/free Arabic text to speech solution based on eSpeak.
 * [Python NLTK](https://github.com/nltk/nltk)
 * Ruby-based [nlp_arabic](https://github.com/othmanela/nlp_arabic) - A ruby gem that contains Natural Language Processing tools for Arabic.
-* [QalbLang](https://github.com/qalblang/qalblang) -  An open source programming language in which you can code in Arabic language like python.
+* [Ya (ي) Language](https://github.com/yalang/ya) -  An open source programming language in which you can code in Arabic language like python.
 
 ## GIT
 
