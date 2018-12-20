@@ -36,7 +36,7 @@ A curated list of awesome projects, libraries, tools, fonts, and dev/design reso
 ##### Wordpress
 * [Arabic-Webfonts](https://github.com/mandooox/Arabic-Webfonts) - WordPress plugin which allow you to add Arabic fonts easily to any theme without coding.
 
-#### Python 
+#### Python
 * [ar2en](https://github.com/maherg/ar2en) - Renames Arabic files and directories into English recursively.
 * [Arabish](https://github.com/amasad/arabish) - Arabic transliteration in Python. Similar to Yamli.com, Google Ta3reeb, and Microsoft Maren.
 * [date-extractor](https://github.com/DanielJDufour/date-extractor) - Extracts dates from text in Arabic and other languages
@@ -59,7 +59,11 @@ CSS frameworks and resources that support RTL layout.
 
 #### LESS
 * [bi-app-less](https://github.com/anasnakawa/bi-app-less) - writing bi-directional stylesheets in less
- 
+
+## Text rendering
+* https://github.com/harfbuzz/harfbuzz - A Text shaping engine
+* https://github.com/HOST-Oman/libraqm - A library for complex text layout
+
 ## Fonts
 
 Freely available Arabic Fonts.
@@ -77,15 +81,15 @@ Freely available Arabic Fonts.
 
 Libraries for working with Arabic language text and data.
 
-#### Stemmers & Roots 
+#### Stemmers & Roots
 * [Apache Lucene Arabic Light Stemmer](http://lucene.apache.org/core/3_0_3/api/contrib-analyzers/org/apache/lucene/analysis/ar/ArabicAnalyzer.html) A lucene analyzer that implements light-stemming as specified by: [Light Stemming for Arabic Information Retrieval](http://www.mtholyoke.edu/~lballest/Pubs/arab_stem05.pdf).
 * [arabicstemmer](https://github.com/assem-ch/arabicstemmer) - Snowball-based light stemmer algorithm for Arabic, aimed mainly to improve search.
 * [Khoja Stemmer](http://zeus.cs.pacificu.edu/shereen/research.htm) - Shereen Khoja Arabic stemmer (java). Another [implementation exists for the same algorithm](https://sourceforge.net/projects/arabicstemmer/) (java as well).
-* [Arabic RootFinder](https://github.com/tb0yd/rootfinder) - Root finding using Jupyter Notebook, Scikit-learn, and neural network in Keras. 
+* [Arabic RootFinder](https://github.com/tb0yd/rootfinder) - Root finding using Jupyter Notebook, Scikit-learn, and neural network in Keras.
 #### Arabic text vocalization
 * [Mishkal](https://github.com/linuxscout/mishkal) - Arabic text vocalization software written in Python, website: http://tahadz.com/mishkal.
 
-#### Verb conjugation 
+#### Verb conjugation
 * [Arabic-Conjugator](https://github.com/awillborn/Arabic-Conjugator) - Conjugates MSA verbs given three root letters, verb form, tense, and pronoun.
 * [Qutrub](http://qutrub.arabeyes.org/) - FOSS Arabic verbs conjugator
 
@@ -120,7 +124,7 @@ Data, databases and content related or useful to Arabic projects.
 #### Voice Corpus
 * [Arabic Speech Corpus](http://en.arabicspeechcorpus.com) - South Levantine Arabic (Damascian accent) speech corpus. Package contains 1813 .wav files containing spoken utterances accompanied with files containing the text utterances and phoneme labels
 
-#### Verb conjugation 
+#### Verb conjugation
 * [LABR](https://github.com/mohamedadaly/labr) - Large Scale Arabic Book Reviews Dataset.
 * [Large Arabic Resources For Sentiment Analysis](https://github.com/hadyelsahar/large-arabic-sentiment-analysis-resouces).
 * [Arabic Stop Words](https://github.com/mohataher/arabic-stop-words) - Long list of Arabic stop words combined from different sources.
