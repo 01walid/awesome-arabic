@@ -81,6 +81,15 @@ Freely available Arabic Fonts.
 
 Libraries for working with Arabic language text and data.
 
+#### Morphological Tools
+* [Qutuf قطوف](https://github.com/qutuf/qutuf) - An Arabic Morphological analyzer and Part-Of-Speech tagger. The Core of a Framework for Arabic Language Processing as an Expert System.
+* [AlKhalil Morpho Sys 2](http://oujda-nlp-team.net/ar/programms-ar/alkhalil-morphology-2-ar/) - A robust Arabic morpho-syntactic analyzer.
+* [MADA+TOKAN](https://pdfs.semanticscholar.org/8dcc/f1749b25bf21d9208237fd2e68299615e4e0.pdf) - A Toolkit for Arabic Tokenization, Diacritization, Morphological Disambiguation, POS Tagging, Stemming and Lemmatization.
+* [MADAMIRA](http://www.cs.columbia.edu/~rambow/software-downloads/MADA_Distribution.html) - A new version of MADA
+* [SAMA](http://www.ldc.upenn.edu/Catalog/catalogEntry.jsp?catalogId=LDC2010L01) - Standard Arabic Morphological Analyzer (crucial to obtain the latest version of SAMA for analysis purposes)
+* [BAMA](http://www.ldc.upenn.edu/Catalog/catalogEntry.jsp?catalogId=LDC2004L02) - Buckwalter's Morphological Analyzer BAMA 2.0.
+* [AraMorph](http://www.nongnu.org/aramorph/) - Arabic Morphological analyzer.
+
 #### Stemmers & Roots
 * [Apache Lucene Arabic Light Stemmer](http://lucene.apache.org/core/3_0_3/api/contrib-analyzers/org/apache/lucene/analysis/ar/ArabicAnalyzer.html) A lucene analyzer that implements light-stemming as specified by: [Light Stemming for Arabic Information Retrieval](http://www.mtholyoke.edu/~lballest/Pubs/arab_stem05.pdf).
 * [arabicstemmer](https://github.com/assem-ch/arabicstemmer) - Snowball-based light stemmer algorithm for Arabic, aimed mainly to improve search.
