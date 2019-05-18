@@ -45,6 +45,7 @@ A curated list of awesome projects, libraries, tools, fonts, and dev/design reso
 * [pyarabicshaping](https://github.com/behdad/pyarabicshaping) - Port of GNU FriBidi's Arabic shaping to Python.
 * [pyIslam](https://github.com/abougouffa/pyIslam) - Python library to calculate prayer times, hijri date, qiblah direction and more.
 * [python-arabic-reshaper](https://github.com/mpcabd/python-arabic-reshaper) - Reconstruct Arabic sentences to be used in applications that don't support Arabic.
+* [ATKSPY](https://github.com/AliAbdelaal/ATKSpy) - Python wrapper for Microsoft Arabic toolkit service, it provides transliterator, speller, SARF, pos tagger, parser, NER, and even a Colloquial to Arabic Converter.
 
 #### Ruby
 * [Manshar](http://www.manshar.org/) - Arabic social publishing platform.
