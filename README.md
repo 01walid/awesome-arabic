@@ -102,6 +102,7 @@ Libraries for working with Arabic language text and data.
 * [Khoja Stemmer](http://zeus.cs.pacificu.edu/shereen/research.htm) - Shereen Khoja Arabic stemmer (java). Another [implementation exists for the same algorithm](https://sourceforge.net/projects/arabicstemmer/) (java as well).
 * [Arabic RootFinder](https://github.com/tb0yd/rootfinder) - Root finding using Jupyter Notebook, Scikit-learn, and neural network in Keras.
 #### Arabic text vocalization
+* [Shakkelha](https://github.com/AliOsm/shakkelha) - Open source Arabic text diacritization recurrent neural network software written in Python, website: https://shakkelha.herokuapp.com.
 * [Mishkal](https://github.com/linuxscout/mishkal) - Arabic text vocalization software written in Python, website: http://tahadz.com/mishkal.
 
 #### Verb conjugation
@@ -145,6 +146,9 @@ Data, databases and content related or useful to Arabic projects.
 * [Large Arabic Resources For Sentiment Analysis](https://github.com/hadyelsahar/large-arabic-sentiment-analysis-resouces).
 * [Arabic Stop Words](https://github.com/mohataher/arabic-stop-words) - Long list of Arabic stop words combined from different sources.
 
+#### Arabic Text Diacritization
+* [Arabic Text Diacritization Corpus](https://github.com/AliOsm/arabic-text-diacritization) - Arabic text diacritization corpus with comparisons for different systems.
+* [Arabic Text Diacritization Corpus Extension](https://github.com/AliOsm/shakkelha) - Arabic text diacritization corpus extension.
 
 ## Awesome content
 
@@ -154,7 +158,7 @@ Data, databases and content related or useful to Arabic projects.
 * [Hsoub I/O](https://io.hsoub.com/) - The Arabic Reddit-like.
 * [informatic-ar](http://informatic-ar.com/) - Arabic content about programming concepts, algorithms, AI ..etc.
 
-* [Ruby 3arabi](http://ruby3arabi.com/) - Learn Ruby in Arabic.
+* [Ruby 3arabi](https://ruby3arabi.herokuapp.com/) - Learn Ruby in Arabic.
 
 ## Communities
 * [LinuxAC](http://www.linuxac.org/) - Linux Arabic Community
