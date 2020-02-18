@@ -10,6 +10,7 @@ A curated list of awesome projects, libraries, tools, fonts, and dev/design reso
 
 #### Go (Golang)
 * [goarabic](https://github.com/01walid/goarabic) - a Go Lang package for dealing with Arabic text.
+* [ara](https://github.com/latiif/ara) - Command line tool that displays Arabic text in terminal.
 
 #### Java
 * [NumberToArabicWords](https://github.com/bluemix/NumberToArabicWords) - Arabic numbers to words.
