@@ -89,6 +89,7 @@ Freely available Arabic Fonts.
 Libraries for working with Arabic language text and data.
 
 #### Morphological Tools
+* [UralicNLP](https://github.com/mikahama/uralicNLP) - An open-source Python library for lemmatization, morphological analysis and generation for Arabic and other languages.
 * [Qutuf قطوف](https://github.com/qutuf/qutuf) - An Arabic Morphological analyzer and Part-Of-Speech tagger. The Core of a Framework for Arabic Language Processing as an Expert System.
 * [AlKhalil Morpho Sys 2](http://oujda-nlp-team.net/ar/programms-ar/alkhalil-morphology-2-ar/) - A robust Arabic morpho-syntactic analyzer.
 * [MADA+TOKAN](https://pdfs.semanticscholar.org/8dcc/f1749b25bf21d9208237fd2e68299615e4e0.pdf) - A Toolkit for Arabic Tokenization, Diacritization, Morphological Disambiguation, POS Tagging, Stemming and Lemmatization.
