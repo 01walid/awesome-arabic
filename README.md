@@ -58,7 +58,9 @@ CSS frameworks and resources that support RTL layout.
 
 * [Bootstrap 2.x & 3.x RTL](http://muayyad-alsadi.github.io/bootstrap-rtl/2.x/index.html).
 * [Bootstrap 3 RTL](https://github.com/morteza/bootstrap-rtl) - RTL Theme for Bootstrap v3.x.
+* [Bootstrap 4 RTL](https://github.com/MahdiMajidzadeh/bootstrap-v4-rtl) - RTL Theme for Bootstrap v4.x.
 * [Foundation 5](http://foundation.zurb.com/) - A CSS framework that natively supports RTL layouts.
+* [MaterializeCSS](https://github.com/MahdiMajidzadeh/materialize-rtl) - MaterializeCSS supports RTL layouts.
 * [UIkit](https://getuikit.com/docs/rtl) -  A lightweight and modular front-end framework that supports RTL layouts.
 
 #### LESS
