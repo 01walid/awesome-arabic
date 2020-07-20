@@ -29,6 +29,7 @@ A curated list of awesome projects, libraries, tools, fonts, and dev/design reso
 * [circular-arabic](https://github.com/mapmeld/circular-arabic) - Write Arabic words in a circle or arc using the Canvas element
 * [Oktob.js](https://github.com/Fcmam5/oktob.js) - Force typing in Arabic letters (ex: replaces "a" with "ض" for AZERTY keyboard scheme)
 * [TafgeetJS](https://github.com/mmahgoub/tafgeetjs) - An NPM module to convert currency digits into written Arabic words.
+* [Accents](https://github.com/Aissaoui-Ahmed/accents/packages/88968) - Provides a simple package check or remove accents from a string use CLI or function, Support multi languages.
 
 #### PHP
 * [Ar-PHP](http://www.ar-php.org/) - A set of PHP classes developed to enhance Arabic web applications by providing set of tools includes stem-based searching, translitiration, soundex, Hijri calendar, charset detection and converter, spell numbers, keyboard language, Muslim prayer time, auto-summarization, and more...
