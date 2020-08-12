@@ -158,6 +158,9 @@ Data, databases and content related or useful to Arabic projects.
 * [Arabic Text Diacritization Corpus](https://github.com/AliOsm/arabic-text-diacritization) - Arabic text diacritization corpus with comparisons for different systems.
 * [Arabic Text Diacritization Corpus Extension](https://github.com/AliOsm/shakkelha) - Arabic text diacritization corpus extension.
 
+#### Arabic Captions
+* [Arabic COCO](https://github.com/canesee-project/Arabic-COCO) - MS COCO Dataset Captions translated in Arabic using Google's Advanced Cloud Translation API.
+
 ## Awesome content
 
 * [ar-python](http://www.ar-python.com/) - Learn Python in Arabic.
