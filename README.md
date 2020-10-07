@@ -128,6 +128,7 @@ Libraries for working with Arabic language text and data.
 * Ruby-based [nlp_arabic](https://github.com/othmanela/nlp_arabic) - A ruby gem that contains Natural Language Processing tools for Arabic.
 * [Ya (ي) Language](https://github.com/yalang/ya) -  An open source programming language in which you can code python in Arabic language.
 * [Shakkala Project مشروع شكّالة](https://github.com/Barqawiz/Shakkala) - A neural network for Arabic text vocalization to automatically form Arabic characters.
+* [Arabic Keyboard](https://github.com/lokutech/Arabic-Keyboard) - Online Arabic keyboard. Beautiful clean design, no ads.
 
 ## GIT
 
