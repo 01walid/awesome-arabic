@@ -36,8 +36,9 @@ A curated list of awesome projects, libraries, tools, fonts, and dev/design reso
 * [Ar-PHP](http://www.ar-php.org/) - A set of PHP classes developed to enhance Arabic web applications by providing set of tools includes stem-based searching, translitiration, soundex, Hijri calendar, charset detection and converter, spell numbers, keyboard language, Muslim prayer time, auto-summarization, and more...
 * [The PHP League Website in Arabic](https://thephpleague.com/ar/).
 
-##### Laravel 5.x
+##### Laravel 
 * [arabicdatetime](https://github.com/maherelgamil/arabicdatetime) - Easy and useful tool to get arabic date with arabic characters for laravel 5.1.
+* [laravel-speaks-arabic](https://github.com/maherelgamil/arabicdatetime) - A laravel package that facilitates dealing with arabic concepts in laravel framework.
 
 ##### Wordpress
 * [Arabic-Webfonts](https://github.com/mandooox/Arabic-Webfonts) - WordPress plugin which allow you to add Arabic fonts easily to any theme without coding.
