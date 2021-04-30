@@ -16,6 +16,7 @@ A curated list of awesome projects, libraries, tools, fonts, and dev/design reso
 * [NumberToArabicWords](https://github.com/bluemix/NumberToArabicWords) - Arabic numbers to words.
 * [RemoveTashkeel.java](https://gist.github.com/mhashim6/7d96f7ea274c9eb7e509798a332d78ac) - Removes Arabic diacritics (tashkeel تشكيل) from any file almost instantly.
 * [Prayer Times](https://github.com/HouariZegai/PrayerTimes) - Desktop application shows you the times of Muslim prayer and set an alarm (Athan) to remind you.
+* [Azkar](https://github.com/AbdelrahmanBayoumi/Azkar-App) - Desktop Application shows notification for Azkar that pops-up every specific time, Calculating Muslim prayer times (for any location), and Morning and Nights Azkar with reminder.
 
 #### Javascript
 * [I18n](https://i18n.softvenue.net) - A Repository to provide arabic translation for technical terms.
