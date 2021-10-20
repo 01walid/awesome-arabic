@@ -179,7 +179,7 @@ Data, databases and content related or useful to Arabic projects.
 * [iSecur1ty](http://www.isecur1ty.org/) - Arabs Security and Ethical hacking community.
 
 ## ebooks
-* [TODO]
+* [Nextjs-Arabic-Handbook](https://github.com/imAbdelhadi/nextjs-arabic-handbook) - كتيّب تعلم Next.js بالعربية
 
 ## Miscellaneous
 
