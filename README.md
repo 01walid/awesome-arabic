@@ -4,6 +4,9 @@ A curated list of awesome projects, libraries, tools, fonts, and dev/design reso
 
 ## Programming Languages
 
+#### .Net
+* [TradingSystem](https://github.com/oybab/TradingSystem) - A multi-language cross-platform open source free trading system that supports personal transaction management, restaurants, small shops, supermarkets, hotels, etc. It can also support secondary development and cooperate with your current business management and statistical reports.
+
 #### C/C++
 * [libitl2](https://github.com/sohaibafifi/libitl2) - A library for Islamic calendar and prayer times.
 * [Qt]: [ArabicNumberToWord](https://github.com/01walid/ArabicNumberToWord), Convert numbers and amounts from numeric to Arabic words.
