@@ -8,6 +8,9 @@ A curated list of awesome projects, libraries, tools, fonts, and dev/design reso
 * [libitl2](https://github.com/sohaibafifi/libitl2) - A library for Islamic calendar and prayer times.
 * [Qt]: [ArabicNumberToWord](https://github.com/01walid/ArabicNumberToWord), Convert numbers and amounts from numeric to Arabic words.
 
+#### C#
+* [alquran-apidotnet-client](https://github.com/islamic-network/alquran-apidotnet-client) - An AlQuranCloud DotNet API Client.
+
 #### Go (Golang)
 * [goarabic](https://github.com/01walid/goarabic) - a Go Lang package for dealing with Arabic text.
 * [ara](https://github.com/latiif/ara) - Command line tool that displays Arabic text in terminal.
