@@ -83,7 +83,6 @@ Freely available Arabic Fonts.
 * [Flat font](http://fonts.jozoor.com/flat-font/) - arabic font (Only Regular weight is available for free)..
 * [Jozoor font](http://fonts.jozoor.com/jozoor-font/) - Jozoor arabic font (Only Regular weight is available for free).
 * [sahl-naskh](https://github.com/khaledhosny/sahl-naskh) - A fork of Droid Arabic Naskh font fixing some of the issues in the original font.
-* 
 
 ## Browser Extensions
 * [Wudooh (وضوح)](https://github.com/basshelal/Wudooh) - Chrome and Firefox extension that makes Arabic script clearer
