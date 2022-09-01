@@ -192,7 +192,6 @@ Useful libraries or tools that don't fit in the categories above.
 * [SemVer (Semantic Versioning)](http://semver.org/lang/ar/) specs in Arabic.
 * [Thawab](https://github.com/ojuba-org/thawab) - Thawab Arabic/Islamic encyclopedia system.
 * [Alpine.js 2.x documentation in Arabic](https://github.com/imAbdelhadi/alpinejs) - ترجمة توثيق مكتبة Alpine.js باللغة العربية.
-* 
 
 # Contributing
 
