@@ -83,6 +83,7 @@ Freely available Arabic Fonts.
 * [Flat font](http://fonts.jozoor.com/flat-font/) - arabic font (Only Regular weight is available for free)..
 * [Jozoor font](http://fonts.jozoor.com/jozoor-font/) - Jozoor arabic font (Only Regular weight is available for free).
 * [sahl-naskh](https://github.com/khaledhosny/sahl-naskh) - A fork of Droid Arabic Naskh font fixing some of the issues in the original font.
+* 
 
 ## Browser Extensions
 * [Wudooh (وضوح)](https://github.com/basshelal/Wudooh) - Chrome and Firefox extension that makes Arabic script clearer
@@ -121,7 +122,7 @@ Libraries for working with Arabic language text and data.
 
 #### Spell Checkers
 * [YaraSpell](https://github.com/linuxscout/yaraspell) - simplified Arabic spell checker.
-* [Aya Spell](https://gitlab.com/arabeyes-dev/ayaspell)
+* [Aya Spell](https://gitlab.com/arabeyes-dev/ayaspell) - spellchecking (hunspell-ar), thesaurus (thesaurus-ar) and Morphological lexicon (Grammar-ar).
 
 #### Others
 * [Arabic NLP](https://github.com/SemanticFrontiers/ArabicNLP) - Collection of various Arabic NLP and Text Processing Scripts and Utilities.
@@ -132,6 +133,8 @@ Libraries for working with Arabic language text and data.
 * [Ya (ي) Language](https://github.com/yalang/ya) -  An open source programming language in which you can code python in Arabic language.
 * [Shakkala Project مشروع شكّالة](https://github.com/Barqawiz/Shakkala) - A neural network for Arabic text vocalization to automatically form Arabic characters.
 * [Arabic Keyboard](https://github.com/lokutech/Arabic-Keyboard) - Online Arabic keyboard. Beautiful clean design, no ads.
+* [Arabic Speech Corpus](http://ar.arabicspeechcorpus.com/) - Database for automated Arabic speech.
+* [Tarmeez](https://sourceforge.net/projects/tarmeez) - binary data format for etymological Arabic system.
 
 ## GIT
 
@@ -189,6 +192,7 @@ Useful libraries or tools that don't fit in the categories above.
 * [SemVer (Semantic Versioning)](http://semver.org/lang/ar/) specs in Arabic.
 * [Thawab](https://github.com/ojuba-org/thawab) - Thawab Arabic/Islamic encyclopedia system.
 * [Alpine.js 2.x documentation in Arabic](https://github.com/imAbdelhadi/alpinejs) - ترجمة توثيق مكتبة Alpine.js باللغة العربية.
+* 
 
 # Contributing
 
