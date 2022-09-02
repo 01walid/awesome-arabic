@@ -121,6 +121,7 @@ Libraries for working with Arabic language text and data.
 
 #### Spell Checkers
 * [YaraSpell](https://github.com/linuxscout/yaraspell) - simplified Arabic spell checker.
+* [Aya Spell](https://gitlab.com/arabeyes-dev/ayaspell) - spellchecking (hunspell-ar), thesaurus (thesaurus-ar) and Morphological lexicon (Grammar-ar).
 
 #### Others
 * [Arabic NLP](https://github.com/SemanticFrontiers/ArabicNLP) - Collection of various Arabic NLP and Text Processing Scripts and Utilities.
@@ -131,6 +132,8 @@ Libraries for working with Arabic language text and data.
 * [Ya (ي) Language](https://github.com/yalang/ya) -  An open source programming language in which you can code python in Arabic language.
 * [Shakkala Project مشروع شكّالة](https://github.com/Barqawiz/Shakkala) - A neural network for Arabic text vocalization to automatically form Arabic characters.
 * [Arabic Keyboard](https://github.com/lokutech/Arabic-Keyboard) - Online Arabic keyboard. Beautiful clean design, no ads.
+* [Arabic Speech Corpus](http://ar.arabicspeechcorpus.com/) - Database for automated Arabic speech.
+* [Tarmeez](https://sourceforge.net/projects/tarmeez) - binary data format for etymological Arabic system.
 
 ## GIT
 
