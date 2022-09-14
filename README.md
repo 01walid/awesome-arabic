@@ -27,6 +27,7 @@ A curated list of awesome projects, libraries, tools, fonts, and dev/design reso
 * [Hijri.js](https://github.com/xsoh/Hijri.js) - A tool for Hijri calender (based on Umm al-Qura calculations) in Javascript.
 * [jsastem](https://github.com/ejtaal/jsastem) - JavaScript Arabic Stemmer.
 * [moment-hijri](https://github.com/xsoh/moment-hijri) -  A Hijri calendar (based on Umm al-Qura calculations) plugin for moment.js.
+* [n2words](https://github.com/forzagreen/n2words) - Convert numerical numbers to written numbers, in arabic (and other languages).
 * [aln9](https://github.com/mkhDev/aln9) -  A lightweight markup language designed for Arabic text.
 * [circular-arabic](https://github.com/mapmeld/circular-arabic) - Write Arabic words in a circle or arc using the Canvas element
 * [Oktob.js](https://github.com/Fcmam5/oktob.js) - Force typing in Arabic letters (ex: replaces "a" with "ض" for AZERTY keyboard scheme)
@@ -144,6 +145,7 @@ Libraries for working with Arabic language text and data.
 ## Dictionaries
 
 * [Arabeyes](http://www.arabeyes.org/%D8%A7%D9%84%D9%82%D8%A7%D9%85%D9%88%D8%B3_%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A) - Arabic Tech dictionary.
+* [arabterm](https://github.com/forzagreen/arabterm) - Extract of [arabterm.org](http://www.arabterm.org/) technical dictionnaries. 150k+ entries in arabic, english, french, and german.
 * [en_ar_dict](https://github.com/devjustly/en_ar_dict) - English Arabic dictionary written in python and Qt4 (pyside).
 * [FuzzyArabicDict](https://github.com/michelleful/FuzzyArabicDict) - a dictionary app that allows you to look up Arabic words in transliteration.
 * [Nibras](https://github.com/01walid/Nibras) - French-Arabic tech terms for students.
