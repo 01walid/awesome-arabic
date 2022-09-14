@@ -91,6 +91,7 @@ Freely available Arabic Fonts.
 ## Markdown
 * [Simple Markdown Editor](https://github.com/ahmadajmi/markdown-arabic) - Write Markdown in Arabic.
 * [SimpleMDE - Markdown Editor (RTL)](https://github.com/imAbdelhadi/simplemde-rtl) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
+* [Markdown Arabic Vue](https://github.com/abdurahman-ghazi/markdown-arabic-vue) - تطبيق ماركداون بالعربي.
 
 ## Natural Language Processing
 
