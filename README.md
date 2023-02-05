@@ -124,6 +124,9 @@ Libraries for working with Arabic language text and data.
 * [YaraSpell](https://github.com/linuxscout/yaraspell) - simplified Arabic spell checker.
 * [Aya Spell](https://gitlab.com/arabeyes-dev/ayaspell) - spellchecking (hunspell-ar), thesaurus (thesaurus-ar) and Morphological lexicon (Grammar-ar).
 
+#### Calligraphy
+* [Calliar](https://github.com/ARBML/Calliar) - Online Handwritten Dataset for Arabic Calligraphy.
+
 #### Others
 * [Arabic NLP](https://github.com/SemanticFrontiers/ArabicNLP) - Collection of various Arabic NLP and Text Processing Scripts and Utilities.
 * [arabic_nlp](https://github.com/alexrutherford/arabic_nlp) - Tools to normalise and derive sentiment from Arabic text.
