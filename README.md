@@ -21,7 +21,7 @@ A curated list of awesome projects, libraries, tools, fonts, and dev/design reso
 #### Javascript
 * [I18n](https://i18n.softvenue.net) - A Repository to provide arabic translation for technical terms.
 * [arabicString](https://github.com/ahmads/arabicString) - A Javascript library that extends the native String object with methods to help when dealing with Arabic strings for node and the browser.
-* [Arli](http://elkebirmed.github.io/arli/) - JavaScript tools for an Arabic development.
+* [Arli](https://github.com/salsa-project/arli-1) - JavaScript tools for an Arabic development.
 * [bidiweb](https://github.com/hasenj/bidiweb) - Determine the base direction of paragraphs and adjust them accordingly.
 * [Hijri Converter](https://github.com/dalwadani/hijri-converter) - Convert between Hijri (Um Alqura) and Gregorian [NPM](https://www.npmjs.com/package/hijri-converter).
 * [Hijri.js](https://github.com/xsoh/Hijri.js) - A tool for Hijri calender (based on Umm al-Qura calculations) in Javascript.
