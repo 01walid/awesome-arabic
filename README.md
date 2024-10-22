@@ -45,7 +45,7 @@ A curated list of awesome projects, libraries, tools, fonts, and dev/design reso
 * [Arabic-Webfonts](https://github.com/mandooox/Arabic-Webfonts) - WordPress plugin which allow you to add Arabic fonts easily to any theme without coding.
 
 #### Python
-* [ar2en](https://github.com/maherg/ar2en) - Renames Arabic files and directories into English recursively.
+* [ar2en](https://giters.com/maherg/ar2en) - Renames Arabic files and directories into English recursively.
 * [Arabish](https://github.com/amasad/arabish) - Arabic transliteration in Python. Similar to Yamli.com, Google Ta3reeb, and Microsoft Maren.
 * [date-extractor](https://github.com/DanielJDufour/date-extractor) - Extracts dates from text in Arabic and other languages
 * [hijra](https://github.com/ojuba-org/hijra) - Hijri Islamic Calendar utils in python.
