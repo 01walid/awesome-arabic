@@ -180,7 +180,7 @@ Data, databases and content related or useful to Arabic projects.
 * [Hsoub I/O](https://io.hsoub.com/) - The Arabic Reddit-like.
 * [informatic-ar](http://informatic-ar.com/) - Arabic content about programming concepts, algorithms, AI ..etc.
 
-* [Ruby 3arabi](https://ruby3arabi.herokuapp.com/) - Learn Ruby in Arabic.
+<!-- * [Ruby 3arabi](https://ruby3arabi.herokuapp.com/) - Learn Ruby in Arabic. (Temporarily commented out--Link is broken) -->
 
 ## Communities
 * [LinuxAC](http://www.linuxac.org/) - Linux Arabic Community
