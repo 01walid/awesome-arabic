@@ -200,6 +200,7 @@ Useful libraries or tools that don't fit in the categories above.
 * [Thawab](https://github.com/ojuba-org/thawab) - Thawab Arabic/Islamic encyclopedia system.
 * [Alpine.js 2.x documentation in Arabic](https://github.com/imAbdelhadi/alpinejs) - ترجمة توثيق مكتبة Alpine.js باللغة العربية.
 * [Yamli](https://www.yamli.com/) - A Smart Arabic Keyboard that allows users to type Arabic without an Arabic keyboard
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - خادم MCP مدعوم بـ Solana لتقييم مصداقية وكلاء الذكاء الاصطناعي. 4 أدوات مجانية لتقييم أي محفظة Solana + شهادة ثقة موقعة عبر مدفوعات x402 (USDC، أقل من ثانية). نقطة نهاية MCP: https://intel.twzrd.xyz/mcp
 
 # Contributing
 
