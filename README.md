@@ -137,6 +137,7 @@ Libraries for working with Arabic language text and data.
 #### Others
 * [Arabic NLP](https://github.com/SemanticFrontiers/ArabicNLP) - Collection of various Arabic NLP and Text Processing Scripts and Utilities.
 * [arabic_nlp](https://github.com/alexrutherford/arabic_nlp) - Tools to normalise and derive sentiment from Arabic text.
+* [darija-tools](https://github.com/Samielakkad/darija-tools) - Dependency-free Python tools for Moroccan Darija normalization and Arabizi-to-Arabic transliteration.
 * [Minteeq - مِنطيق](http://arabic-tools.github.io/ar-espeak/) - Opensource/free Arabic text to speech solution based on eSpeak.
 * [Python NLTK](https://github.com/nltk/nltk)
 * Ruby-based [nlp_arabic](https://github.com/othmanela/nlp_arabic) - A ruby gem that contains Natural Language Processing tools for Arabic.
