@@ -19,6 +19,7 @@ A curated list of awesome projects, libraries, tools, fonts, and dev/design reso
 * [Azkar](https://github.com/AbdelrahmanBayoumi/Azkar-App) - Desktop Application shows notification for Azkar that pops-up every specific time, Calculating Muslim prayer times (for any location), and Morning and Nights Azkar with reminder.
 
 #### Javascript
+* [Falah](https://github.com/abdessamadbettal/falah) - An open-source, ad-free Islamic web toolkit built with Next.js. It combines an **Uthmani Quran** (hover translations, Tafseer, audio recitation), **Daily Worship** (prayer times, Adhan alerts, Qibla and mosque finders, Duas, 99 Names of Allah, Quran card maker), **Smart Calculators** (Zakat and inheritance), and **Hijri Date Tools** (smart calendar, date converter, Ramadan countdown, age tracker, and Arabic date stamps).
 * [Qafiyah](https://github.com/alwalxed/qafiyah) - An open-source Arabic poetry DB and website with 944K+ verses by 932 poets from 10 eras. Built with Nextjs, Hono, and Supabase.
 * [I18n](https://github.com/softvenue/i18n) - A Repository to provide arabic translation for technical terms.
 * [arabicString](https://github.com/ahmads/arabicString) - A Javascript library that extends the native String object with methods to help when dealing with Arabic strings for node and the browser.
