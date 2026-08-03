@@ -179,6 +179,9 @@ Data, databases and content related or useful to Arabic projects.
 #### Arabic Captions
 * [Arabic COCO](https://github.com/canesee-project/Arabic-COCO) - MS COCO Dataset Captions translated in Arabic using Google's Advanced Cloud Translation API.
 
+#### Dialectal resources
+* [Tunisian Arabic NLP Resources](https://github.com/jjlalli/Tunisian-Derja-NLP-Resources) - Access-verified inventory of datasets, speech corpora, models and benchmarks for Tunisian Arabic (Derja), with per-resource access status.
+
 ## Awesome content
 
 * [ar-python](http://www.ar-python.com/) - Learn Python in Arabic.
