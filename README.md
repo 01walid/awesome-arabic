@@ -99,6 +99,7 @@ Freely available Arabic Fonts.
 ## Markdown
 * [Simple Markdown Editor](https://github.com/ahmadajmi/markdown-arabic) - Write Markdown in Arabic.
 * [SimpleMDE - Markdown Editor (RTL)](https://github.com/imAbdelhadi/simplemde-rtl) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
+* [Skim](https://github.com/skim-md/skim) - Markdown viewer browser extension with real Hebrew/Arabic bidi support: each block picks its own text direction automatically, so documents mixing RTL and LTR text render correctly. Free, MIT licensed, no telemetry.
 
 ## Natural Language Processing
 
