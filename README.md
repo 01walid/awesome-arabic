@@ -186,6 +186,7 @@ Data, databases and content related or useful to Arabic projects.
 * [Hsoub Academy](http://academy.hsoub.com/) - Hight quality tutorials about programing, DevOps, UX and Design, Freelancing...
 * [Hsoub I/O](https://io.hsoub.com/) - The Arabic Reddit-like.
 * [informatic-ar](http://informatic-ar.com/) - Arabic content about programming concepts, algorithms, AI ..etc.
+* [Shoof Aflam](https://shoofaflam.tv) - Free Arabic streaming guide — find where to watch 14,000+ Arabic movies and series across 18 platforms in the Arab world.
 
 * [Ruby 3arabi](https://ruby3arabi.herokuapp.com/) - Learn Ruby in Arabic.
 
