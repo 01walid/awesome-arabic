@@ -145,6 +145,7 @@ Libraries for working with Arabic language text and data.
 * [Arabic Keyboard](https://github.com/lokutech/Arabic-Keyboard) - Online Arabic keyboard. Beautiful clean design, no ads.
 * [Arabic Speech Corpus](http://ar.arabicspeechcorpus.com/) - Database for automated Arabic speech.
 * [Tarmeez](https://sourceforge.net/projects/tarmeez) - binary data format for etymological Arabic system.
+* [HAQQ Legal AI](https://haqq.ai) - Arabic/English legal AI platform with full RTL support: legal research, contract review, and case law search for MENA jurisdictions.
 
 ## GIT
 
