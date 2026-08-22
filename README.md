@@ -158,6 +158,7 @@ Libraries for working with Arabic language text and data.
 * [arabterm](https://github.com/forzagreen/arabterm) - Extract of [arabterm.org](http://www.arabterm.org/) technical dictionnaries. 150k+ entries in arabic, english, french, and german.
 * [en_ar_dict](https://github.com/devjustly/en_ar_dict) - English Arabic dictionary written in python and Qt4 (pyside).
 * [FuzzyArabicDict](https://github.com/michelleful/FuzzyArabicDict) - a dictionary app that allows you to look up Arabic words in transliteration.
+* [3ammiya](https://3ammiya.com) - A searchable Egyptian Arabic dictionary with Franco-Arabic transliteration, example sentences, and context notes for everyday spoken vocabulary.
 * [Nibras](https://github.com/01walid/Nibras) - French-Arabic tech terms for students.
 
 ## Data
