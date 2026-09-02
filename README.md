@@ -145,6 +145,7 @@ Libraries for working with Arabic language text and data.
 * [Arabic Keyboard](https://github.com/lokutech/Arabic-Keyboard) - Online Arabic keyboard. Beautiful clean design, no ads.
 * [Arabic Speech Corpus](http://ar.arabicspeechcorpus.com/) - Database for automated Arabic speech.
 * [Tarmeez](https://sourceforge.net/projects/tarmeez) - binary data format for etymological Arabic system.
+* [Irab App إعراب آب](https://irab.app) - AI Arabic grammar (i'rab) analyzer: parses any Arabic sentence word by word (part of speech, syntactic role, case, case marker and full tashkeel), with graded practice and grammar lessons. Web, iOS and Android.
 
 ## GIT
 
