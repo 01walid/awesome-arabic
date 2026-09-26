@@ -200,6 +200,7 @@ Data, databases and content related or useful to Arabic projects.
 
 Useful libraries or tools that don't fit in the categories above.
 
+* [BusinessOS](https://businessos.biz) - منصة أعمال ثنائية اللغة (عربي/إنجليزي) - فواتير، مصاريف، تدفق نقدي. تعمل دون إنترنت. / Bilingual AR/EN business platform — invoicing, expenses, cash flow. Works offline.
 * [SemVer (Semantic Versioning)](http://semver.org/lang/ar/) specs in Arabic.
 * [Thawab](https://github.com/ojuba-org/thawab) - Thawab Arabic/Islamic encyclopedia system.
 * [Alpine.js 2.x documentation in Arabic](https://github.com/imAbdelhadi/alpinejs) - ترجمة توثيق مكتبة Alpine.js باللغة العربية.
