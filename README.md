@@ -75,6 +75,7 @@ CSS frameworks and resources that support RTL layout.
 * [MaterializeCSS](https://github.com/MahdiMajidzadeh/materialize-rtl) - MaterializeCSS supports RTL layouts.
 * [UIkit](https://getuikit.com/docs/rtl) -  A lightweight and modular front-end framework that supports RTL layouts.
 * [PaperCSS-RTL](https://github.com/bitsnaps/papercss-rtl) - A fork of the less formal CSS framework paperCSS with RTL & arabic support.
+* [RTL UI design for Arabic apps](https://maniruzzamanjubayer.com/blog/arabic-rtl-interface-design-uae) - Mirroring, digits, mixed text, forms and a QA checklist for bilingual products.
 
 #### LESS
 * [bi-app-less](https://github.com/anasnakawa/bi-app-less) - writing bi-directional stylesheets in less
@@ -182,7 +183,6 @@ Data, databases and content related or useful to Arabic projects.
 ## Awesome content
 
 * [ar-python](http://www.ar-python.com/) - Learn Python in Arabic.
-* [Colors Lab](http://www.colorslab.net/) - UX/UI philosophy in Arabic.
 * [Hsoub Academy](http://academy.hsoub.com/) - Hight quality tutorials about programing, DevOps, UX and Design, Freelancing...
 * [Hsoub I/O](https://io.hsoub.com/) - The Arabic Reddit-like.
 * [informatic-ar](http://informatic-ar.com/) - Arabic content about programming concepts, algorithms, AI ..etc.
