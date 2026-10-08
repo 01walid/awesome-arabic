@@ -52,6 +52,7 @@ A curated list of awesome projects, libraries, tools, fonts, and dev/design reso
 
 #### Python
 * [ar2en](https://github.com/maherg/ar2en) - Renames Arabic files and directories into English recursively.
+* [arabic-lint](https://github.com/Syamjith-NK/arabic-lint) - Finds Arabic text corrupted by python-arabic-reshaper + python-bidi before it is stored, in data files, source and Jupyter notebooks.
 * [Arabish](https://github.com/amasad/arabish) - Arabic transliteration in Python. Similar to Yamli.com, Google Ta3reeb, and Microsoft Maren.
 * [date-extractor](https://github.com/DanielJDufour/date-extractor) - Extracts dates from text in Arabic and other languages
 * [hijra](https://github.com/ojuba-org/hijra) - Hijri Islamic Calendar utils in python.
