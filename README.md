@@ -159,6 +159,7 @@ Libraries for working with Arabic language text and data.
 * [en_ar_dict](https://github.com/devjustly/en_ar_dict) - English Arabic dictionary written in python and Qt4 (pyside).
 * [FuzzyArabicDict](https://github.com/michelleful/FuzzyArabicDict) - a dictionary app that allows you to look up Arabic words in transliteration.
 * [Nibras](https://github.com/01walid/Nibras) - French-Arabic tech terms for students.
+* [Quanzetta AI Glossary](https://quanzetta.com/glossary/) - Arabic–English AI and machine learning terms, each with a plain Arabic definition, a real-world example and a common beginner mistake.
 
 ## Data
 
