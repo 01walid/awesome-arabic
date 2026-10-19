@@ -204,6 +204,7 @@ Useful libraries or tools that don't fit in the categories above.
 * [Thawab](https://github.com/ojuba-org/thawab) - Thawab Arabic/Islamic encyclopedia system.
 * [Alpine.js 2.x documentation in Arabic](https://github.com/imAbdelhadi/alpinejs) - ترجمة توثيق مكتبة Alpine.js باللغة العربية.
 * [Yamli](https://www.yamli.com/) - A Smart Arabic Keyboard that allows users to type Arabic without an Arabic keyboard
+* [Arabic cookie banner text](https://arqam360.com/ar/tools/cookie-banner-text) - Copy-paste cookie consent banner wording in Arabic and English (Accept / Reject / Customize labels and a preferences panel) for Arabic websites. نصوص جاهزة لبانر موافقة ملفات تعريف الارتباط باللغة العربية.
 
 # Contributing
 
