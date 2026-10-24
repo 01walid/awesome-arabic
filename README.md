@@ -39,6 +39,7 @@ A curated list of awesome projects, libraries, tools, fonts, and dev/design reso
 * [TafgeetJS](https://github.com/mmahgoub/tafgeetjs) - An NPM module to convert currency digits into written Arabic words.
 * [Accents](https://github.com/Aissaoui-Ahmed/accents/packages/88968) - Provides a simple package check or remove accents from a string use CLI or function, Support multi languages.
 * [arabic-utils](https://github.com/justgo97/arabic-utils) - Provides some utilities to deal with Arabic strings such as removing diacritics, tatweel and more.
+* [arabic-search-lite](https://github.com/musaed300/arabic-search-lite) - Normalize Arabic text for search: removes diacritics and tatweel, unifies alef, yaa, taa marbuta and hamza forms. MIT, no dependencies, same output in Python and JavaScript.
 
 #### PHP
 * [Ar-PHP](http://www.ar-php.org/) - A set of PHP classes developed to enhance Arabic web applications by providing set of tools includes stem-based searching, translitiration, soundex, Hijri calendar, charset detection and converter, spell numbers, keyboard language, Muslim prayer time, auto-summarization, and more...
@@ -60,6 +61,7 @@ A curated list of awesome projects, libraries, tools, fonts, and dev/design reso
 * [pyIslam](https://github.com/abougouffa/pyIslam) - Python library to calculate prayer times, hijri date, qiblah direction and more.
 * [python-arabic-reshaper](https://github.com/mpcabd/python-arabic-reshaper) - Reconstruct Arabic sentences to be used in applications that don't support Arabic.
 * [ATKSPY](https://github.com/AliAbdelaal/ATKSpy) - Python wrapper for Microsoft Arabic toolkit service, it provides transliterator, speller, SARF, pos tagger, parser, NER, and even a Colloquial to Arabic Converter.
+* [arabic-search-lite](https://github.com/musaed300/arabic-search-lite) - Normalize Arabic text for search: removes diacritics and tatweel, unifies alef, yaa, taa marbuta and hamza forms. MIT, no dependencies, same output in Python and JavaScript.
 
 #### Ruby
 * [Manshar](http://www.manshar.org/) - Arabic social publishing platform.
