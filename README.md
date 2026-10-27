@@ -134,6 +134,9 @@ Libraries for working with Arabic language text and data.
 #### Calligraphy
 * [Calliar](https://github.com/ARBML/Calliar) - Online Handwritten Dataset for Arabic Calligraphy.
 
+#### OCR
+* [Nuqta OCR](https://github.com/SalahAlHaismawi/nuqta-ocr) - Open-source Arabic OCR models (4B and 0.8B) and a Python library. Converts Arabic scans, PDFs and photos to text or Markdown and keeps the tashkeel printed on the page.
+
 #### Others
 * [Arabic NLP](https://github.com/SemanticFrontiers/ArabicNLP) - Collection of various Arabic NLP and Text Processing Scripts and Utilities.
 * [arabic_nlp](https://github.com/alexrutherford/arabic_nlp) - Tools to normalise and derive sentiment from Arabic text.
