@@ -49,6 +49,7 @@ A curated list of awesome projects, libraries, tools, fonts, and dev/design reso
 
 ##### Wordpress
 * [Arabic-Webfonts](https://github.com/mandooox/Arabic-Webfonts) - WordPress plugin which allow you to add Arabic fonts easily to any theme without coding.
+* [Arabic to Latin](https://github.com/khusamalfas/Arabic-to-latin) - WordPress plugin that turns Arabic, Persian and Urdu post, product, term and file slugs into readable Latin letters, with optional 301 redirects for URLs that already exist.
 
 #### Python
 * [ar2en](https://github.com/maherg/ar2en) - Renames Arabic files and directories into English recursively.
