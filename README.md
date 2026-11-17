@@ -204,6 +204,7 @@ Useful libraries or tools that don't fit in the categories above.
 * [Thawab](https://github.com/ojuba-org/thawab) - Thawab Arabic/Islamic encyclopedia system.
 * [Alpine.js 2.x documentation in Arabic](https://github.com/imAbdelhadi/alpinejs) - ترجمة توثيق مكتبة Alpine.js باللغة العربية.
 * [Yamli](https://www.yamli.com/) - A Smart Arabic Keyboard that allows users to type Arabic without an Arabic keyboard
+* [Kalam](https://github.com/Shadysmetools/kalam) - Pre-alpha, statically typed programming language whose source files can be written with Arabic, English or Egyptian Franco keywords and converted between them. It has a type checker and interpreter; it does not generate code yet.
 
 # Contributing
 
