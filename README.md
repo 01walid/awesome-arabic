@@ -130,6 +130,7 @@ Libraries for working with Arabic language text and data.
 #### Spell Checkers
 * [YaraSpell](https://github.com/linuxscout/yaraspell) - simplified Arabic spell checker.
 * [Aya Spell](https://gitlab.com/arabeyes-dev/ayaspell) - spellchecking (hunspell-ar), thesaurus (thesaurus-ar) and Morphological lexicon (Grammar-ar).
+* [Arabic Writing Skill](https://github.com/a-khalid/arabic-writing-skill) - Open-source Agent Skill (SKILL.md) that turns AI tools such as Claude Code, Codex and Cursor into an Arabic proofreader: spelling, grammar, punctuation, structure and rhetoric.
 
 #### Calligraphy
 * [Calliar](https://github.com/ARBML/Calliar) - Online Handwritten Dataset for Arabic Calligraphy.
