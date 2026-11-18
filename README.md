@@ -204,6 +204,7 @@ Useful libraries or tools that don't fit in the categories above.
 * [Thawab](https://github.com/ojuba-org/thawab) - Thawab Arabic/Islamic encyclopedia system.
 * [Alpine.js 2.x documentation in Arabic](https://github.com/imAbdelhadi/alpinejs) - ترجمة توثيق مكتبة Alpine.js باللغة العربية.
 * [Yamli](https://www.yamli.com/) - A Smart Arabic Keyboard that allows users to type Arabic without an Arabic keyboard
+* [Toolverse Hub Arabic tools](https://toolverse-hub.pages.dev/ar/) - Browser-based Arabic tools: number to Arabic words (tafqeet), Hijri-Gregorian date converter, zakat and school average calculators. Free, no sign-up.
 
 # Contributing
 
