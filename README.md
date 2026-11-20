@@ -186,6 +186,7 @@ Data, databases and content related or useful to Arabic projects.
 * [Hsoub Academy](http://academy.hsoub.com/) - Hight quality tutorials about programing, DevOps, UX and Design, Freelancing...
 * [Hsoub I/O](https://io.hsoub.com/) - The Arabic Reddit-like.
 * [informatic-ar](http://informatic-ar.com/) - Arabic content about programming concepts, algorithms, AI ..etc.
+* [Moshid](https://moshid.com/skills) - Arabic guides and ready-to-install Claude skills for applying AI to everyday business work ([free skills on GitHub](https://github.com/younesbag/arabic-claude-skills)).
 
 * [Ruby 3arabi](https://ruby3arabi.herokuapp.com/) - Learn Ruby in Arabic.
 
