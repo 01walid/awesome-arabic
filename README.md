@@ -82,6 +82,7 @@ CSS frameworks and resources that support RTL layout.
 ## Text rendering
 * https://github.com/harfbuzz/harfbuzz - A Text shaping engine
 * https://github.com/HOST-Oman/libraqm - A library for complex text layout
+* [Arabic PDFs that ATS parsers can read back](https://foliumcv.hashnode.dev/arabic-resumes-with-react-pdf-four-shaping-bugs-one-font-swap-and-a-pdf-that-ats-can-read) - Write-up on four Arabic shaping bugs in generated PDFs and how a font swap changed what text extractors (Poppler, pdf.js) can read.
 
 ## Fonts
 
