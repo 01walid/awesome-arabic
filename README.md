@@ -55,6 +55,7 @@ A curated list of awesome projects, libraries, tools, fonts, and dev/design reso
 * [Arabish](https://github.com/amasad/arabish) - Arabic transliteration in Python. Similar to Yamli.com, Google Ta3reeb, and Microsoft Maren.
 * [date-extractor](https://github.com/DanielJDufour/date-extractor) - Extracts dates from text in Arabic and other languages
 * [hijra](https://github.com/ojuba-org/hijra) - Hijri Islamic Calendar utils in python.
+* [ismatch](https://github.com/RealAoss/ismatch) - Compares Arabic personal names across Arabic and Latin spellings and shows how the parts of each name align.
 * [PyArabic](https://pypi.python.org/pypi/PyArabic/0.4) - Arabic text tools for Python.
 * [pyarabicshaping](https://github.com/behdad/pyarabicshaping) - Port of GNU FriBidi's Arabic shaping to Python.
 * [pyIslam](https://github.com/abougouffa/pyIslam) - Python library to calculate prayer times, hijri date, qiblah direction and more.
