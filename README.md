@@ -202,6 +202,7 @@ Useful libraries or tools that don't fit in the categories above.
 
 * [SemVer (Semantic Versioning)](http://semver.org/lang/ar/) specs in Arabic.
 * [Thawab](https://github.com/ojuba-org/thawab) - Thawab Arabic/Islamic encyclopedia system.
+* [Khazna](https://github.com/mosabsomaer/Khazna) - Open-source library of Libyan bank and payment logos (SVG, PNG, WebP) and banking app UI screens, with a bilingual Arabic/English RTL interface.
 * [Alpine.js 2.x documentation in Arabic](https://github.com/imAbdelhadi/alpinejs) - ترجمة توثيق مكتبة Alpine.js باللغة العربية.
 * [Yamli](https://www.yamli.com/) - A Smart Arabic Keyboard that allows users to type Arabic without an Arabic keyboard
 
