@@ -204,6 +204,7 @@ Useful libraries or tools that don't fit in the categories above.
 * [Thawab](https://github.com/ojuba-org/thawab) - Thawab Arabic/Islamic encyclopedia system.
 * [Alpine.js 2.x documentation in Arabic](https://github.com/imAbdelhadi/alpinejs) - ترجمة توثيق مكتبة Alpine.js باللغة العربية.
 * [Yamli](https://www.yamli.com/) - A Smart Arabic Keyboard that allows users to type Arabic without an Arabic keyboard
+* [Business-Wrap](https://github.com/NJ-Burrito/Business-Wrap) - Local, open-source editor for bilingual Arabic (RTL) and English requirements documents (SRS, BRD, test plan and 14 other types), exported to PDF and DOCX. MIT.
 
 # Contributing
 
